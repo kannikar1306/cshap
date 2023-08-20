@@ -1,0 +1,16 @@
+C:\cshap\Algoriyhym\Algoriyhym\bin\Debug\net6.0-windows\Algoriyhym.exe
+C:\cshap\Algoriyhym\Algoriyhym\bin\Debug\net6.0-windows\Algoriyhym.deps.json
+C:\cshap\Algoriyhym\Algoriyhym\bin\Debug\net6.0-windows\Algoriyhym.runtimeconfig.json
+C:\cshap\Algoriyhym\Algoriyhym\bin\Debug\net6.0-windows\Algoriyhym.dll
+C:\cshap\Algoriyhym\Algoriyhym\bin\Debug\net6.0-windows\Algoriyhym.pdb
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.Form1.resources
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.csproj.GenerateResource.cache
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.AssemblyInfoInputs.cache
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.AssemblyInfo.cs
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.csproj.CoreCompileInputs.cache
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.dll
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\refint\Algoriyhym.dll
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.pdb
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\Algoriyhym.genruntimeconfig.cache
+C:\cshap\Algoriyhym\Algoriyhym\obj\Debug\net6.0-windows\ref\Algoriyhym.dll
