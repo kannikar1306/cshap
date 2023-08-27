@@ -1,0 +1,14 @@
+C:\cshap\week-3\urser-input\bin\Debug\net7.0\urser-input.exe
+C:\cshap\week-3\urser-input\bin\Debug\net7.0\urser-input.deps.json
+C:\cshap\week-3\urser-input\bin\Debug\net7.0\urser-input.runtimeconfig.json
+C:\cshap\week-3\urser-input\bin\Debug\net7.0\urser-input.dll
+C:\cshap\week-3\urser-input\bin\Debug\net7.0\urser-input.pdb
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\urser-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\urser-input.AssemblyInfoInputs.cache
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\urser-input.AssemblyInfo.cs
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\urser-input.csproj.CoreCompileInputs.cache
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\urser-input.dll
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\refint\urser-input.dll
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\urser-input.pdb
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\urser-input.genruntimeconfig.cache
+C:\cshap\week-3\urser-input\obj\Debug\net7.0\ref\urser-input.dll
