@@ -18,7 +18,7 @@ namespace Program
             val = Int32.Parse(Console.ReadLine());
             CP.Line();
             CP.routes(val);
-            
+
         }
         public void selected_band()
         {
@@ -54,16 +54,22 @@ namespace Program
                 case 2:
                     {
                         CP.Inthanin();
+                        manu = Int32.Parse(Console.ReadLine());
+                        CP.Inthanin_manu(manu);
                         break;
                     }
                 case 3:
                     {
                         CP.Punthai();
+                        manu = Int32.Parse(Console.ReadLine());
+                        CP.Punthai_manu(manu);
                         break;
                     }
                 case 4:
                     {
                         CP.Dora();
+                        manu = Int32.Parse(Console.ReadLine());
+                        CP.Dora_manu(manu);
                         break;
                     }
                 default:
@@ -123,36 +129,98 @@ namespace Program
         }
         public void Inthanin()
         {
-            Console.WriteLine("Inthanin cafe");
-            Console.WriteLine("Manu");
+            int manu;
+            Console.WriteLine("Please Select Manu ?");
             Console.WriteLine("1.Black Mix Orange");
             Console.WriteLine("2.Late");
             Console.WriteLine("3.Capu chino");
         }
+        public void Inthanin_manu(int manu)
+        {
+            switch (manu)
+            {
+                case 1:
+                    {
+                        Console.WriteLine("Inthanin-Black Mix Orange 60 Bath");
+                        break;
+
+                    }
+                case 2:
+                    {
+                        Console.WriteLine("Inthanin-Late 40 Bath");
+                        break;
+
+                    }
+                case 3:
+                    {
+                        Console.WriteLine("Inthanin-Capu chino 55 Bath");
+                        break;
+
+                    }
+            }
+        }    
         public void Punthai()
-        {
-            Console.WriteLine("Panthai cafe");
-            Console.WriteLine("Manu");
-            Console.WriteLine("1.Chocolate");
-            Console.WriteLine("2.Americano");
+            {
+                int manu;
+                Console.WriteLine("Please Select Manu ?");
+                Console.WriteLine("1.Chocolate");
+                Console.WriteLine("2.Americano");
+            }
+        public void Punthai_manu(int manu)
+            {
+                switch (manu)
+                {
+                    case 1:
+                        {
+                            Console.WriteLine(" Punthai-Chocolate 50 Bath");
+                            break;
+
+                        }
+                    case 2:
+                        {
+                            Console.WriteLine(" Americano 40 Bath");
+                            break;
+
+                        }
+                }
+            }
+
+            public void Dora()
+            {
+                        {
+                            int manu;
+                            Console.WriteLine("Please Select Manu ?");
+                            Console.WriteLine("1.Milk Chocolate");
+                            Console.WriteLine("2.Capu chino");
+
+                        }
+                }
+            
+            public void Dora_manu(int manu)
+                {
+                    switch (manu)
+                    {
+                        case 1:
+                            {
+                                Console.WriteLine("Dora-Mix Chocolate 60 Bath");
+                                break;
+
+                            }
+                        case 2:
+                            {
+                                Console.WriteLine("Dora-Capu chino 40 Bath");
+                                break;
+
+                            }
+
+
+                    }
+
+
+
+                }
+            }
         }
-
-        public void Dora()
-        {
-            Console.WriteLine("Dora cafe");
-            Console.WriteLine("Manu");
-            Console.WriteLine("1.Milk Chocolate");
-            Console.WriteLine("2.Capu chino");
-            Console.WriteLine("3.Capu chino");
-        }
-
-    }
-
-
-
-}
-
-
 
 
 
